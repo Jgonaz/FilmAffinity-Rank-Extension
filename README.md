@@ -1,0 +1,1 @@
+# FilmAffinity Rank Extension
