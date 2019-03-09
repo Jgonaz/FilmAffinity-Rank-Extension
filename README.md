@@ -3,4 +3,6 @@ Extensión para Google Chrome escrita en JS(+jQuery) que permite utilizar la bú
 
 https://www.filmaffinity.com/es/topgen
 
+Contenido del código dentro del archivo "script.js"
+
 Link de descarga: https://chrome.google.com/webstore/detail/filmaffinity-rank-extensi/lldecoobpkpapiifipdalegkcjiknkca
